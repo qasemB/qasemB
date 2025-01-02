@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am **[Your Full Name]**, a passionate **Full-Stack Developer** and **WebGIS Specialist** with experience in building modern web applications and working with open-source GIS technologies.
+I am **[Qasem Bassaki]**, a passionate **Front-End Developer** and **WebGIS Specialist** with experience in building modern web applications and working with open-source GIS technologies.
 
 ---
 
