@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am **[Qasem Bassaki]**, a passionate **Front-End Developer** and **WebGIS Specialist** with experience in building modern web applications and working with open-source GIS technologies.
+I am [Qasem Bassaki], a dedicated Full-Stack Developer with a primary focus on Front-End Development and a strong passion for creating modern web applications. I also specialize in WebGIS and have experience working with open-source GIS technologies.
 
 ---
 
@@ -9,8 +9,10 @@ I am **[Qasem Bassaki]**, a passionate **Front-End Developer** and **WebGIS Spec
 ### Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?logo=googlechrome&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
 
 ### Back-End
@@ -46,4 +48,3 @@ I am **[Qasem Bassaki]**, a passionate **Front-End Developer** and **WebGIS Spec
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/qasem-bassaki/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)](https://github.com/qasemB/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:qasembsk90@gmail.com.com)
-
