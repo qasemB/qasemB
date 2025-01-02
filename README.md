@@ -39,11 +39,6 @@ I am [Qasem Bassaki], a dedicated Full-Stack Developer with a primary focus on F
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=qasemB&show_icons=true&theme=onedark)
-
----
-
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/qasem-bassaki/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)](https://github.com/qasemB/)
